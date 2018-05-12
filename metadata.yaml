@@ -1,0 +1,36 @@
+_repo: The-Art-or-Crafte-of-Rhetoryke_25612
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Melanchthon, Philipp
+    aliases:
+    - Schwarzerd, Philipp
+    - Faventinus, Didymus
+    birthdate: 1497
+    deathdate: 1560
+    gutenberg_agent_id: '156'
+    url: http://www.gutenberg.org/2009/agents/156
+    wikipedia: http://en.wikipedia.org/wiki/Philipp_Melanchthon
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cox, Leonard
+    gutenberg_agent_id: '31458'
+    url: http://www.gutenberg.org/2009/agents/31458
+    wikipedia: http://en.wikipedia.org/wiki/Leonard_Cox
+description: ''
+gutenberg_issued: '2008-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Rhetoric -- Early works to 1800'
+title: The Art or Crafte of Rhetoryke
+url: http://www.gutenberg.org/ebooks/25612
